@@ -21,3 +21,4 @@ Um repositório criado para armazenar os projetos desenvolvidos em aula.
     - Lógica de programação: praticando com desafios;
       - 00 sorteador-numeros;
       - 01 alugames;
+      - 02 carrinho-compras;
