@@ -22,3 +22,5 @@ Um repositório criado para armazenar os projetos desenvolvidos em aula.
       - 00 sorteador-numeros;
       - 01 alugames;
       - 02 carrinho-compras;
+      - 03 ingresso;
+      - 04 amigo-secreto;
