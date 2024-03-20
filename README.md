@@ -24,3 +24,5 @@ Um repositório criado para armazenar os projetos desenvolvidos em aula.
       - 02 carrinho-compras;
       - 03 ingresso;
       - 04 amigo-secreto;
+
+  Encerrando o curso "Lógica de programação" e o módulo "A partir do zero".
